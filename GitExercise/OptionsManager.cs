@@ -7,7 +7,8 @@ namespace GitExercise
         public static string[] OptionsList = {
             "a - Add",
             "s - Subtract",
-            "m - Multiply"
+            "m - Multiply",
+            "d - Devide"
         };
 
         public static void Add(double a, double b)
