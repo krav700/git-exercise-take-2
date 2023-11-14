@@ -9,7 +9,8 @@ namespace GitExercise
             "s - Subtract",
             "m - Multiply",
             "d - Devide",
-            "Del - Del"
+            "Del - Del",
+            "step - stepuwu"
         };
 
         public static void Add(double a, double b)
